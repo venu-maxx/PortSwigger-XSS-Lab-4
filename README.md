@@ -156,7 +156,7 @@ Figure 1: Malicious payload in ?search= parameter.
 Figure 2: JavaScript alert(1) pops up on page load due to DOM XSS.
 
 
-![Lab Solved Congratulations]()
+![Lab Solved Congratulations](https://github.com/venu-maxx/PortSwigger-XSS-Lab-4/blob/d694f0fa108cd7a20174b09e7790b0acd06678cb/PortSwigger%20XSS%20Lab%204%20Lab%20Completion.png)
 
 Figure 3: PortSwigger Academy confirmation – "Congratulations, you solved the lab!"
 
